@@ -4,12 +4,6 @@ A Flutter demo app that visually compares **explicit** and **implicit** animatio
 
 ---
 
-## 📱 Screenshots
-
-> _Add your screenshots here_
-
----
-
 ## ✨ Features
 
 - **Side-by-side comparison** — Screen is split into two halves divided by a `Divider`, one for each animation style
